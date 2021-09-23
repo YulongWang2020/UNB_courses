@@ -31,6 +31,7 @@ class Team{
 	private int playerCounter;
 
 	public Team(String teamName, int maxPlayer){
+		
 		this.teamName = teamName;
 		this.maxPlayer = maxPlayer;
 		this.players = new Player[this.maxPlayer];
@@ -39,6 +40,7 @@ class Team{
 	}
 
 	public Boolean addPlayer(Player player){
+
 		if(this.numberOfPlayers >= maxPlayer){
 			return false;
 		}
@@ -68,6 +70,7 @@ class Team{
 	}
 
 	public Boolean removePlayer(Player player){
+
 		if(this.hashPlayers.containsKey(player)){
 			player.setNumber(-1);
 			int index = this.hashPlayers.remove(player);
@@ -80,18 +83,16 @@ class Team{
 	}
 
 	public String[] getPlayers(){
+
 		String[] playerList = new String[this.numberOfPlayers];
 		int j = 0;
 		for(int i = 0; i < this.maxPlayer; i ++){
 			if(this.players[i] != null){
 				playerList[j] = this.players[i].getName() + " " + this.players[i].getNumber();
-				// System.out.println(this.players[i].getName());
 			}
 		}
 		return playerList;
 	} 
-
-
 
 }
 
