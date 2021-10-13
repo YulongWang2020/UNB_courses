@@ -26,7 +26,9 @@ public class Dealership {
         this.name = name;
         for(Vehicle vehicle : inventory){
             if(vehicle != null){
-                addVehicle(vehicle);
+                if(!addVehicle(vehicle)){
+                    System.out.println("Vehicle already exist");
+                };
             }
         }
     }
@@ -36,13 +38,11 @@ public class Dealership {
      * @param vehicle Vehicle to be added
      * @return boolean If adding succeed.
      */
-    public boolean addVehicle(Vehicle vehicle){
+    private boolean addVehicle(Vehicle vehicle){
         Vehicle[] newList = new Vehicle[inventory.length+1];
         if(!map.containsKey(vehicle.getCode())){
             map.put(vehicle.getCode(),0);
-            for(int i =0;i<inventory.length;i++){
-                newList[i] = inventory[i];
-            }
+            System.arraycopy(inventory, 0, newList, 0, inventory.length);
             newList[inventory.length] = vehicle;
             this.inventory = newList;
             return true;

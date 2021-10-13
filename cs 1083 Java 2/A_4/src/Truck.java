@@ -6,7 +6,7 @@ public class Truck extends Vehicle{
     /**
      * The base price of the truck
      */
-    final static double defaultPrice = 50000.0;
+    private final static double defaultPrice = 50000.0;
     /**
      * The bed size of the truck: standard, short, or long.
      */

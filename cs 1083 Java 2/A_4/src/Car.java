@@ -6,7 +6,7 @@ public class Car extends Vehicle{
     /**
      * The base price of car
      */
-    final static double defaultPrice = 10000;
+    private final static double defaultPrice = 10000.0;
     /**
      * The number of doors
      */

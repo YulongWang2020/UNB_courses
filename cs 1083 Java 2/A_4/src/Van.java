@@ -6,7 +6,7 @@ public class Van extends Vehicle{
     /**
      * The base price of a van
      */
-    final static double defaultPrice = 25000.0;
+    private final static double defaultPrice = 25000.0;
     /**
      * If the van has an electrical door closure
      */
