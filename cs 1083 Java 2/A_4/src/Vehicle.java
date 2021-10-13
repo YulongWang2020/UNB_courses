@@ -10,7 +10,7 @@ public abstract class Vehicle implements Comparable<Vehicle>{
     /**
      * Code that identically represent a car
      */
-    private String code;
+    private final String code;
     /**
      * The mileage of the vehicle
      */
