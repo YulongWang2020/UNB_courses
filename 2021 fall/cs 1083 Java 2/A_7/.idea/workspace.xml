@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0b6e76f-5c7d-4c43-ba9f-f4d0908ceefa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../A_5/src/DuplicateGenreException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A_5/src/DuplicateMovieException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A_5/src/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A_5/src/GenreSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A_5/src/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A_5/src/MovieReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A_5/src/genrerating.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A_6/src/InvalidVehicleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A_6/src/MergeVehicles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A_6/src/testcase.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_4/YulongWang-A4-Archive.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_4/out/production/A_4/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../A_4/out/production/A_4/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_4/out/production/A_4/Dealership.class" beforeDir="false" afterPath="$PROJECT_DIR$/../A_4/out/production/A_4/Dealership.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_4/out/production/A_4/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../A_4/out/production/A_4/Truck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_4/out/production/A_4/Van.class" beforeDir="false" afterPath="$PROJECT_DIR$/../A_4/out/production/A_4/Van.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_4/out/production/A_4/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../A_4/out/production/A_4/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_4/src/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../A_4/src/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_4/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A_4/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_4/src/Dealership.class" beforeDir="false" afterPath="$PROJECT_DIR$/../A_4/src/Dealership.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_4/src/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../A_4/src/Truck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_4/src/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A_4/src/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_4/src/Van.class" beforeDir="false" afterPath="$PROJECT_DIR$/../A_4/src/Van.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_4/src/Van.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A_4/src/Van.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_4/src/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../A_4/src/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_4/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A_4/src/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cs 2545 Data Science for Big Data Analysis/handson2/handson2-wang-yulong.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../cs 2545 Data Science for Big Data Analysis/handson2/handson2-wang-yulong.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cs 2545 Data Science for Big Data Analysis/handson3/.ipynb_checkpoints/Handson3_2021F-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cs 2545 Data Science for Big Data Analysis/handson3/Handson3_2021F.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="20NFaVWsZpMRSjXuieIphojBvGz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestSeq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestSeq" />
+      <module name="A_7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestSeq" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0b6e76f-5c7d-4c43-ba9f-f4d0908ceefa" name="Changes" comment="" />
+      <created>1635877204149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635877204149</updated>
+    </task>
+    <servers />
+  </component>
+</project>
